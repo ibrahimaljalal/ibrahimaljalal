@@ -2,7 +2,6 @@
 
 
 
-<iframe src="https://www.aramco.com/en/careers/saudi-applicants/apply/graduates" title="description"></iframe>
 
 
 
